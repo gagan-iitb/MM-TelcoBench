@@ -1,0 +1,38 @@
+Image File,Generated Question
+image21.png,What is the role of the RLC AM layer in the context of 3GPP radio protocols?
+image10.png,What is the relationship between the USIM and the VLR/SGSN in the context of user authentication?
+image13.png,"What is the relationship between the IMSI and the CK, IK, and Kc values ?"
+image9.png,"What is the purpose of the AUTN in the given image, and how does it relate to the overall process depicted?"
+image4.png,What is the role of the UTRAN in the CS domain?
+image17.png,What is the purpose of the Counter Check Response message in the context of 3GPP signaling?
+image6.png,What are the two protocols involved in the process depicted in the image?
+image8.png,What is the relationship between the VLR/SGSN and the HE in the context of authentication data request and response?
+image24.png,What is the role of the SGSN in the process of allocating resources to the PS HO command in the 3GPP protocol?
+image25.png,"What is the role of the f1* and f5* boxes in the image, and how do they interact with the MAC-S and AK values?"
+image15.png,What is the role of the HLR in the authentication failure report process?
+image16.png,"What is the purpose of the RRC connection establishment procedure in the 3GPP network architecture? 
+
+"
+image11.png,"What is the relationship between the Master Node (MN) and the Service Node (SN) ?
+
+"
+image19.png,What is the structure of the RRC HFN and RRC SN fields in the RRC message?
+image20.png,"What is the relationship between the CK and the f8 block ?
+
+"
+image7.png,What is the purpose of the authentication and key establishment process ?
+image14.png,What is the relationship between the MME and the SGSN?
+image12.png,"What is the relationship between the variables f1*, f5*, and AUTS?"
+image23.png,"What is the role of the RRC Connection Re-establishment procedure ?
+
+"
+image22.png,"What is the role of the SGSN in the UMTS network architecture?
+
+"
+image18.png,"What is the relationship between the two protocols in the figure?
+
+"
+image3.png,"What are the key components involved in the data flow between the User Application and the Provider Application ? 
+
+"
+image5.png,What is the significance of the TMSI allocation command?

@@ -1,0 +1,171 @@
+Image File,Generated Question
+image124.png,"What are the key components involved in the L1/L2/L3 data processing and reconfiguration process ?
+
+"
+image105.png,What is the relationship between the Non-3GPP and Uu-RLC ?
+image21.png,"What is the value of the coefficient of friction, $\mu$, in the equation $\mu = \frac{D}{15f}$?"
+image122.png,What is the role of the T first-data message in the L1/L2/L3 control plane protocol?
+image111.png,What is the role of the AMF in the 3GPP system?
+image69.png,What is the role of the NG Setup Request message in the context of Non-Access-Stratum (NAS) procedures?
+image10.png,"What is the relationship between the RRC and PDCP protocols in the context of 3GPP architecture?
+
+"
+image13.png,What is the primary function of the BAP entity in the IAB-node1 and IAB-node2 boxes in the context of the BHRLC channel and BH RLC channel?
+image54.png,What is the function of the Random Access Preamble in the context of 5G NR (New Radio) communication?
+image48.png,What is the purpose of the handover preparation step in the figure?
+image85.png,"What is the difference between the Uu-PDCP and Uu-RRC protocols in the context of 5G communication?
+
+"
+image74.png,What is the role of the UE in the measurement configuration process?
+image88.png,What is the role of the PDCP layer in the control plane protocol stack?
+image49.png,What is the relationship between the LTM candidate preparation and the LTM cell switch execution?
+image42.png,What is the sequence of events in the 3GPP document when a UE in RRC_INACTIVE CM-CONNECTED sends an RRC Resume Request and receives an RNA Update?
+image58.png,What is the relationship between the Random Access Preamble and the PUSCH payload in terms of their transmission order?
+image109.png,What is the sequence of steps involved in the RRC reconfiguration process when a relay node changes its serving cell?
+image31.png,What is the relationship between the Radio Resource Control (RRC) and the Packet Data Control Protocol (PDCP) in the context of the 3GPP protocol architecture?
+image110.png,What is the function of the Xn-U address indication in the context of RRC reestablishment?
+image94.png,What is the role of RRC Reconfiguration message in the 3GPP system?
+image45.png,What is the sequence of events when a User Equipment (UE) switches to a new cell?
+image87.png,What are the key components involved in the PC5 U2U Relay RLC Channel?
+image53.png,"What is the sequence of events when a User Equipment (UE) initiates a Random Access procedure in a cellular network?
+
+"
+image9.png,"What is the relationship between the gNB and the UE in the context of the PDCP protocol?
+
+"
+image4.png,"What is the relationship between the 5GC and the gNB or ng-eNB in the context of 3GPP?
+
+"
+image113.png,What is the sequence of events that occurs when a UE (User Equipment) initiates a PDU (Protocol Data Unit) session establishment request?
+image17.png,What is the purpose of the Network-Controlled Repeater (NCR) ?
+image65.png,What is the sequence of events when a mobile device (UE) sends a Report Neighbour Request to the base station (eNodeB)?
+image71.png,What is the relationship between the NG-RAN and the PDU session resource setup request?
+image90.png,"What is the process of switching from a direct cell to a non-direct cell in the context of a network, and what are the steps involved in this process?"
+image6.png,What is the relationship between NG-AP and SCTP ?
+image121.png,"What are the two main components of the 5G network architecture shown in the image? 
+
+"
+image8.png,What is the role of the SCTP protocol in the context of the given protocol stack?
+image44.png,What are the key steps involved in the process of sending an RRC Resume Request in 3GPP?
+image102.png,"What is the role of the gNB in the 5G network architecture?
+
+"
+image26.png,"What is the purpose of the Access RLC Channels in the 3GPP architecture diagram?
+"
+image106.png,"What is the relationship between the RRC Reconfiguration message and the RRC Reconfiguration Complete message in the context of 3GPP?
+
+"
+image98.png,What is the role of the Common TA in the context of the image?
+image116.png,What is the primary function of the PDU Session and DRB(s) established step in the protocol?
+image24.png,"What is the role of the PDCP in the context of the image?
+
+"
+image114.png,What is the primary function of the gNB in the 5G network architecture ?
+image91.png,What is the sequence of events when a remote UE initiates a handover to a new gNB?
+image46.png,What is the difference between the handover request and handover execution phases ?
+image60.png,"What is the relationship between QoS Flow and NG-RAN in the 5G network architecture?
+"
+image25.png,"What is the role of the PDCP protocol ?
+
+"
+image93.png,What is the purpose of the RRC Reconfiguration message in the 3GPP document?
+image84.png,What is the function of the Uu-PDCP entity in the 5G network architecture?
+image66.png,"What is the role of the RRC connection in the LTE network, and how does it interact with other protocol layers?"
+image47.png,"What is the purpose of the RRCReestablishmentRequest message in the context of 3GPP protocol?
+
+"
+image79.png,What is the function of the RRC (Radio Resource Control) protocol in the context of the LTE (Long-Term Evolution) network architecture?
+image83.png,"What is the role of the Radio Network Controller (RNC) in the 3GPP architecture, and how does it interact with other components?"
+image15.png,"What are the key components of the IAB-MT and IAB-DU entities in the image, and how do they interact with each other?"
+image1.png,What is the value of the variable 'x' in the equation x^2 - 4x + 4 = 0?
+image52.png,What is the function of the NW in the process of determining the total number of subgroups for UE ID based subgrouping?
+image81.png,What is the role of the RLC protocol ?
+image112.png,What is the purpose of the RAN Paging (MT-SDT information) message in the context of this signaling flow?
+image38.png,What is the role of the RRCResumeRequest message in the RRC Re-establishment procedure?
+image63.png,What is the role of the NCR in the 3GPP system?
+image103.png,What is the relationship between the Uu-PDCP and Uu-RRC protocols in the context of 5G network architecture?
+image68.png,"What is the purpose of the UL/DL bit rate recommendation query in the context of 3GPP networks? 
+
+"
+image75.png,What is the purpose of the 3GPP document's figure depicting the UE and gNB measurement configuration process?
+image40.png,What is the role of the RAN Paging Trigger in the process of triggering a paging procedure?
+image118.png,What is the purpose of the PDU Session and DRB(s) establishment step in the 3GPP protocol?
+image16.png,What is the relationship between the IAB node and the child and parent nodes in the given scenario?
+image37.png,What is the sequence of events when a UE in RRC_INACTIVE state initiates a connection request to the network?
+image119.png,"What is the role of the SUL (Spectral Usage License) in the context of the image, and how does it relate to the frequency band allocation?"
+image11.png,"What is the role of the IAB-node in the 5G network architecture?
+
+"
+image67.png,What is the relationship between the UL/DL bit rate recommendation and the gNB and UE in the context of 5G networks?
+image32.png,What is the minimum bandwidth requirement for the BWP2 in the given scenario?
+image76.png,What is the purpose of the gNB (gNodeB) in the context of the provided diagram?
+image97.png,What is the primary purpose of the AMF/UPF entity in the 5G network architecture?
+image33.png,"What is the role of the Ingress BH link ?
+
+"
+image62.png,What is the relationship between the feature sets (FS) and the bands ?
+image56.png,What is the role of the RA Preamble and PUSCH assignment in the context of 5G network operation?
+image19.png,What is the role of the CP Insertion block in the context of the given diagram?
+image30.png,What are the key components of the RLC protocol in the context of 3GPP architecture?
+image51.png,"What is the purpose of the UE support of CN controlled subgrouping in the context of 3GPP?
+
+"
+image20.png,"What is the value of the variable x in the equation x = 2y + 5, where y is a constant?"
+image107.png,What is the purpose of the RRC Reconfiguration message in the context of the 3GPP protocol stack?
+image61.png,"What is the role of the Key Generation and Management Function (KgNB) ?
+
+"
+image77.png,What is the primary function of the PC5 interface in the 5G network architecture ?
+image7.png,What is the role of the GTP-U protocol ?
+image34.png,What is the relationship between the minimum SI (MIB) and the minimum SI (SIB1) in the context of 3GPP radio interfaces?
+image73.png,What is the role of the Handover Execution process in the context of Slice Aware Handover?
+image64.png,What is the purpose of the Global-CID Request message in the context of the given scenario?
+image117.png,"What is the sequence of events in the PDU session resource modify request process, and how do they interact with each other?
+
+"
+image29.png,What is the relationship between the RLC (Radio Link Control) and MAC (Medium Access Control) layers in the context of IP packets?
+image72.png,What are the key components involved in the handover process between 3GPP networks?
+image14.png,What is the primary function of the IABMT unit in the context of the depicted protocol architecture?
+image89.png,"What is the purpose of the RRC SetupRequest message in the context of 3GPP protocol?
+"
+image27.png,What is the role of the Multiplexing Backhaul Link in the context of the depicted architecture?
+image12.png,What is the relationship between the IAB-node and the IAB-MT and IAB-DU entities ?
+image35.png,"What is the purpose of the RRCSetup message in the 3GPP protocol?
+
+"
+image59.png,"What is the difference between the on-duration and opportunity for DRX in the context of 3GPP LTE?
+
+"
+image108.png,"What is the significance of the ""RRC Reconfiguration message"" in the context of the given flowchart?"
+image96.png,"What are the key components of the RRC Reconfiguration Sidelink process in the U2U Relay UE? 
+
+"
+image70.png,What is the relationship between the RRC Connection Establishment and the Initial Context Setup Request ?
+image80.png,What is the relationship between the RRC and RLC protocols?
+image23.png,What is the relationship between the subcarrier number and the OFDM symbol number ?
+image28.png,"What is the role of the Reassemble ARQ (Automatic Repeat Request) function ?
+
+"
+image92.png,What is the purpose of the RRC reconfiguration message?
+image78.png,What is the relationship between the RRC and PDCP protocols in the context of 5G network architecture?
+image36.png,What is the procedure for handling a congestion situation in RRC setup when a UE (User Equipment) initiates a connection with the gNB (gNodeB)?
+image123.png,What is the relationship between the LTM candidate configuration and the LTM Cell Switch Command?
+image22.png,What is the role of the downlink and uplink frames in the 3GPP protocol stack?
+image18.png,What is the purpose of the RRCSetupComplete message in the context of the Network-Controlled Repeater?
+image2.png,What is the purpose of the 3GPP logo in the image?
+image41.png,"What is the purpose of the ""Last Serving gNB"" in the 3GPP message flow diagram?"
+image55.png,What is the relationship between the Random Access Preamble and the Random Access Response in the context of 5G NR signaling?
+image104.png,"What is the protocol used for Non-3GPP Uu interface in 5G NR?
+
+"
+image43.png,"What is the sequence of events when a UE (User Equipment) in RRC_INACTIVE state sends an RRC Resume Request message to the gNB (gNodeB), and what is the subsequent action taken by the gNB?"
+image95.png,What is the sequence of events when a user equipment (UE) initiates a handover request to another cell?
+image82.png,What is the role of the PDCP in the context of 3GPP protocols?
+image57.png,What is the purpose of the RA Preamble assignment message in the context of 4G/5G network architecture?
+image3.png,What is the relationship between the gNB and the AMF/UPF in the 5G network architecture?
+image86.png,What is the relationship between the PC5-SRAP and the PC5-RLC in the context of the UE-to-UE relay UE?
+image120.png,What is the relationship between the initial BWP and the dedicated BWP ?
+image115.png,What is the purpose of the RRCReconfigurationComplete message in the 3GPP protocol?
+image39.png,What are the steps involved in the RRC Resume Request procedure in 5G?
+image50.png,"What are the key components of the beam selection and reporting process in the given diagram, and how do they interact with each other?"
+image5.png,What is the relationship between GTP-U and the User Plane PDUs in the context of the 3GPP protocol architecture?
