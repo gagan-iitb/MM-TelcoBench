@@ -48,7 +48,7 @@ Our benchmark suite covers the following key tasks:
 - **Evaluation Metric**: Top-K Accuracy
 
 ## Areas Covered
-In the development of our telecom-specific benchmarks, we have covered a wide range of critical areas within telecommunications, including core network protocols, system architecture and services, radio resource control, radio performance, and protocol aspects. Additionally, the benchmarks encompass essential areas such as user equipment protocols, service management and orchestration, network security and privacy, as well as interworking with external networks and policy control. These areas represent key components of both the radio access network and the core network, ensuring that the benchmarks evaluate performance across foundational and advanced telecom technologies. This broad coverage ensures that the benchmark is representative of real-world telecom challenges, addressing both radio layer protocols and system-level architectural considerations.
+In developing our telecom-specific benchmarks, we have covered a wide range of critical areas within telecommunications, including core network protocols, system architecture and services, radio resource control, radio performance, and protocol aspects. Additionally, the benchmarks encompass essential areas such as user equipment protocols, service management, and orchestration, network security and privacy, interworking with external networks and policy control. These areas represent key components of the radio access and core networks, ensuring that the benchmarks evaluate performance across foundational and advanced telecom technologies. This broad coverage ensures that the benchmark is representative of real-world telecom challenges, addressing both radio layer protocols and system-level architectural considerations.
 
 ## Why This Benchmark?
 
@@ -59,11 +59,19 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 - **Open Source**: The dataset is freely available, encouraging community collaboration and model evaluation on a large, diverse dataset.
 
 ## Future Work 
-- **LLMs Evaluation**: We will evalaute some of the famous LLMs on these benchmarks and share the result .
-- **Finetune Shortlisted Models**: We will Try to increase performance of the best performing models on our benchmark using fine-tuning.
-- **Large Bechmark Release**: We will release a large version of these Benchmarks soon .
+- **LLMs Evaluation**: We will evaluate some of the state-of-the-art LLMs on these benchmarks and share the results and analysis of their strengths and weakness.
+- **Finetune Shortlisted Models**: We will Try to increase the performance of the best-performing models on our benchmark using fine-tuning.
+- **Large Benchmark Release**: We will release a large version of these Benchmarks soon.
 
+## People/Collaborators
+Dr. Gagan Raj Gupta, Associate Professor, IIT Bhilai (ex. LMTS, AT&T Labs, CA, USA)
+Dr. Brejesh Lall, Professor, IIT Delhi
+Dr. Ashutosh Modi, Assistant Professor, IIT Kanpur
+Dr. Soumajit Pramanik, Assistant Professor, IIT Bhilai
 
+Manish Rai (MTech, IIT Bhilai)
+Anshul Kumar
+Sunny
 
 ## License
 
