@@ -8,14 +8,14 @@ The telecommunications industry is undergoing significant transformation, driven
 
 Our benchmark suite covers the following key tasks:
 
-| Task | Evaluation Metrics |
-|------|---------------------|
-| Multiple-Choice Telecom Question Answering | Accuracy |
-| Long Telecom Question Answering | BLEU, ROUGE, BERTScore |
-| Telecom Information Retrieval | Top-K Accuracy (K=1, 3, 5) |
-| Named Entity Recognition | Accuracy |
-| Image Classification | Accuracy |
-| Image Retrieval | Top-K Accuracy |
+| Task | Evaluation Metrics | Size |
+|------|---------------------|---------|
+| Multiple-Choice Telecom Question Answering | Accuracy | 2000 |
+| Long Telecom Question Answering | BLEU, ROUGE, BERTScore | 2000 |
+| Telecom Information Retrieval | Top-K Accuracy (K=1, 3, 5) |1000 (queries) ,  6,000+ (docs) |
+| Named Entity Type Classification | Accuracy | 1000 |
+| Image Classification | Accuracy | 1000 |
+| Image Retrieval | Top-K Accuracy | 1000 |
 
 ### 1. Multiple-Choice Telecom Question Answering
 
@@ -32,7 +32,7 @@ Our benchmark suite covers the following key tasks:
 - **Description**: Focuses on retrieving relevant sections from 3GPP documents based on queries.
 - **Evaluation Metric**: Top-K Accuracy (K=1, 3, 5)
 
-### 4. Named Entity Recognition (NER)
+### 4. Named Entity Type Classification 
 
 - **Description**: Enhances entity type coverage from 3GPP documents. The goal is to evaluate the model's ability to accurately identify and categorize telecom-specific entities.
 - **Evaluation Metric**: Accuracy
@@ -47,6 +47,9 @@ Our benchmark suite covers the following key tasks:
 - **Description**: Retrieval of the most relevant image from a database based on user queries. The dataset consists of <image, query> pairs from 3GPP specification documents.
 - **Evaluation Metric**: Top-K Accuracy
 
+## Areas Covered
+In the development of our telecom-specific benchmarks, we have covered a wide range of critical areas within telecommunications, including core network protocols, system architecture and services, radio resource control, radio performance, and protocol aspects. Additionally, the benchmarks encompass essential areas such as user equipment protocols, service management and orchestration, network security and privacy, as well as interworking with external networks and policy control. These areas represent key components of both the radio access network and the core network, ensuring that the benchmarks evaluate performance across foundational and advanced telecom technologies. This broad coverage ensures that the benchmark is representative of real-world telecom challenges, addressing both radio layer protocols and system-level architectural considerations.
+
 ## Why This Benchmark?
 
 Current benchmarks are not designed to evaluate LLMs within the context of real-world telecom tasks. Our benchmark addresses this by offering:
@@ -54,6 +57,13 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 - **Telecom-Specific Tasks**: Tailored to 3GPP specifications, providing a more realistic evaluation of LLMs' domain proficiency.
 - **Multi-Modal Evaluation**: Covers both textual and visual data, ensuring comprehensive assessment across different data modalities.
 - **Open Source**: The dataset is freely available, encouraging community collaboration and model evaluation on a large, diverse dataset.
+
+## Future Work 
+- **LLMs Evaluation**: We will evalaute some of the famous LLMs on these benchmarks and share the result .
+- **Finetune Shortlisted Models**: We will Try to increase performance of the best performing models on our benchmark using fine-tuning.
+- **Large Bechmark Release**: We will release a large version of these Benchmarks soon .
+
+
 
 ## License
 
