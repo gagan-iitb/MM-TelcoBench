@@ -1,0 +1,123 @@
+Image File,Generated Question
+image21.png,"What is the role of the S1 interface in the context of the EPC architecture ?
+
+"
+image69.png,"What is the purpose of the AS-Request message in the context of the protocol ?
+
+"
+image10.png,What is the relationship between the Intranet protocol and the GGSN ?
+image13.png,"What are the key differences between the RADIUS and DHCP options in the GGSN?
+
+"
+image54.png,What is the function of the RAR message in the context of the given image?
+image48.png,"What is the purpose of the AccountingReq message in the GGSN, and what information does it carry?
+
+"
+image74.png,What is the purpose of the RAR (Radio Access Response) message in the 3GPP protocol stack?
+image49.png,What is the role of the DeletePDPContextReq message in the context of 3GPP protocol interactions?
+image42.png,"What are the two types of PDP context requests/responses in the GPRS/UMTS context? 
+
+"
+image58.png,What is the relationship between the GGSN and the BM-SC in the context of the AS-Request and AS-Answer messages?
+image31.png,What is the purpose of the Router Advertisement message in the 3GPP network?
+image45.png,What is the relationship between the Delete Bearer Request and Delete Bearer Response messages in the context of the S-GW to P-GW interface?
+image53.png,What is the purpose of the Conditional Registration procedure in the MBMS (Multimedia Broadcast Multicast Service) network architecture?
+image9.png,"What is the role of the Firewall/Proxy in the context of Gi Reference Point?
+
+"
+image4.png,What is the relationship between the EPC Based Packet Domain network 1 and the UE?
+image17.png,What is the purpose of the RADIUS Diameter/DHCPv6 protocol in the context of network architecture?
+image65.png,"What is the relationship between the AA-Request and AA-Answer messages in the GGSN-visited PLMN and GGSN-home PLMN?
+
+"
+image71.png,What are the two types of updates used in RAN (Radio Access Network) and their respective roles in the 3GPP standard?
+image6.png,"What is the relationship between the GTP-U protocol and the GTP-U Relay protocol in the context of 3G SGSN and RNS?
+"
+image8.png,What is the relationship between the GGSN/P-GW and the Gi/SGi interface ?
+image44.png,What is the relationship between the S-GW and P-GW ?
+image26.png,What is the relationship between the GGSN and the SGSN ?
+image24.png,What is the role of the PPP protocol in the context of GSN (GPRS Support Node) and Gi (Gateway Interface)?
+image46.png,What is the role of the Diameter server in the context of PDP context activation and deactivation?
+image60.png,What is the relationship between the GGSN and the BM-SC in the context of the AS-Request and AS-Answer messages?
+image25.png,"What is the protocol used for transporting user data between the GGSN and the Intranet/ISP in the GPRS architecture? 
+
+"
+image66.png,"What is the sequence of events that occurs when a user initiates a call from a visited GGSN to a BM-SC in a visited PLMN, and how does the BM-SC in the home PLMN respond to the request?"
+image47.png,"What is the role of the Accounting-Answer message in the PDP Context Deactivate PDP Context Request process?
+
+"
+image15.png,"What is the purpose of the message flow diagram in the figure, and what does it illustrate?
+
+"
+image1.png,"What is the relationship between the radio access network and the core network in the 5G system?
+
+"
+image52.png,What is the relationship between the Diameter ASR and the Delete Bearer Request message in the context of this image?
+image38.png,What is the role of the GGSN in the GPRS network architecture ?
+image63.png,What are the three steps involved in the process of updating the MBMS context response?
+image68.png,What is the relationship between the GGSN and the BM-SC in the context of user leave indication?
+image75.png,"What is the relationship between the RAR and RAA messages in the MBMS signaling process, as depicted in the diagram?"
+image40.png,What are the key components involved in the GGSN (Gateway GPRS Support Node) and their roles in the process?
+image16.png,What is the function of the S-GW in the context of the given protocol flow diagram?
+image37.png,What are the three protocols used in the 3GPP system architecture?
+image11.png,What are the different types of GTP (GPRS Tunneling Protocol) in the GPRS architecture?
+image67.png,What is the sequence of events when a user initiates a call in a home PLMN and the call is successfully connected in the visited PLMN?
+image32.png,"What is the primary protocol used for signaling and control in the network ?
+
+"
+image33.png,What is the role of the DHCPDISCOVER message in the DHCP protocol?
+image62.png,What is the sequence of steps involved in the ST-Request and ST-Answer message exchange between GGSN and BM-SC in the 3GPP protocol?
+image56.png,What is the sequence of events that occurs when a GGSN sends an AA-Request message to a BM-SC?
+image19.png,"What are the different layers in the GPRS protocol stack? 
+
+The GPRS protocol stack consists of the following layers:
+
+1. Physical layer
+2. Data link layer
+3. Network layer
+4. Transport layer
+5. Application layer"
+image30.png,"What is the purpose of the PDP Context Request message in the GPRS/UMTS protocol stack? 
+
+"
+image51.png,What is the role of the AccountingReq message in the context of the Diameter protocol?
+image20.png,What is the purpose of the protocol illustrated in the diagram?
+image61.png,"What is the role of the AA-Request message in the 3GPP architecture?
+
+"
+image7.png,"What is the relationship between the UE, Gi/SGi, and T6 ?"
+image34.png,What is the primary purpose of the P-GW (DHCPv4 Client)?
+image73.png,What is the relationship between the ST-Request and ST-Answer messages ?
+image64.png,What is the relationship between the GGSN and the BM-SC in terms of RAR and RAA updates?
+image29.png,What is the purpose of the Intranet/ISP ?
+image72.png,What is the relationship between the RAR and RAA messages in the context of MBMS (Multimedia Broadcast Multicast Service) communication?
+image14.png,"What is the purpose of the PDP context activation process in the GPRS/UMTS network? 
+
+"
+image27.png,"What is the role of the SGSN in the GPRS (General Packet Radio Service) architecture?
+
+"
+image12.png,What are the key differences between the GGSN and ISP/intranet RADIUS/DHCP server in terms of their roles and functions?
+image35.png,What are the key differences between the GTPv2-C protocol and the BM-SC protocol in terms of their IP and L1/L2 layer operations?
+image59.png,What is the purpose of the conditional de-registration procedure in the MBMS service?
+image70.png,What is the relationship between the RAR and RAA messages in the context of 3GPP protocol architecture?
+image23.png,"What is the relationship between the IP and the GGSN ?
+
+"
+image28.png,What is the relationship between the GGSN and the Gi interface in the context of packet data transmission?
+image36.png,What are the key differences between the MBMS and BM-SC protocols in terms of user plane data processing?
+image22.png,"What is the purpose of the L2TP tunnel setup process ?
+"
+image18.png,"What is the relationship between the foreign agent and the IP address of the GGSN ?
+
+"
+image41.png,"What are the two procedures that are initiated by the SGSN to update the PDP context for the GGSN? 
+
+"
+image55.png,What is the purpose of the RAR and RAA messages in the GSN and BM-SC communication?
+image43.png,What are the key components involved in the message flow depicted in the image?
+image57.png,What is the sequence of events when a mobile device initiates a service request to the network?
+image3.png,What is the relationship between the Non-EPC Based Packet Domain and the PDN or other network in the context of 3GPP architecture?
+image39.png,What is the purpose of the Accounting-Response message in the GPRS/UMTS network architecture?
+image50.png,What is the relationship between the Accounting-Request and Accounting-Answer messages in the context of Diameter protocol?
+image5.png,"What is the purpose of the protocol stack shown in the figure, and what are its key components?"
