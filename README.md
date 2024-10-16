@@ -58,6 +58,10 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 - **Multi-Modal Evaluation**: Covers both textual and visual data, ensuring comprehensive assessment across different data modalities.
 - **Open Source**: The dataset is freely available, encouraging community collaboration and model evaluation on a large, diverse dataset.
 
+## Interested in Collaborating ? 
+- We invite you to help validate our benchmark and contribute to future developments. Please fill out this [expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLSdt5PiCNI3dCf9Vw9jfjSMbpyfQPfyJhnAXF1MEcoWsCFEfPA/viewform?usp=sf_link).
+
+  
 ## Future Work 
 - **LLMs Evaluation**: We will evaluate some of the state-of-the-art LLMs on these benchmarks and share the results and analysis of their strengths and weakness.
 - **Finetune Shortlisted Models**: We will Try to increase the performance of the best-performing models on our benchmark using fine-tuning.
