@@ -24,7 +24,8 @@ Definition: Network functions refer to the logical operations performed by netwo
     Examples:
         AMF (Access and Mobility Management Function)
         SMF (Session Management Function)
-        UPF (User Plane Function)
+        PCF(Policy Control Function)
+        PCRF(Policy Charging and Rules Function)
 
 # 3. Network Function Group
 
