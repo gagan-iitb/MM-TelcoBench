@@ -15,3 +15,6 @@ We have defined 5 classes as of now which includes Packet Structure, State Machi
 
   ![image108](https://github.com/user-attachments/assets/6a84859b-67a0-4397-a2d5-3c7f51e7372f)
 It is Call Ladder Diagram
+
+# Note
+Figure 5.png of file 23401.csv represents the 5th image of the document no. 23.401 of the 3GPP
