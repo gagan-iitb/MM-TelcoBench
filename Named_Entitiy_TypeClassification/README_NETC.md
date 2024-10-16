@@ -118,7 +118,8 @@ Definition: Organizations are entities that develop, promote, and manage telecom
         ITU (International Telecommunication Union)
         ETSI (European Telecommunications Standards Institute)
 
-# 13. User Equipment (UE)
+# 13. User Equipment (UE)/DEVICE
+
 
 Definition: User equipment refers to the devices used by subscribers to access telecommunications services.
 
