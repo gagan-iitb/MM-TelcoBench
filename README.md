@@ -69,9 +69,9 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 * Dr. Ashutosh Modi, Assistant Professor, IIT Kanpur
 * Dr. Soumajit Pramanik, Assistant Professor, IIT Bhilai
 
+* Anshul Kumar (MTech, Jawaharlal Nehru University)
 * Manish Rai (MTech, IIT Bhilai)
-* Anshul Kumar
-* Sunny
+* Sunny Kumar 
 
 ## License
 
