@@ -69,10 +69,11 @@ Definition: Identifiers are unique numbers or codes used to recognize and manage
 Definition: Channels represent the communication pathways used for transmitting data, each supporting different types of data transmission technologies.
 
     Examples:
-        LTE (Long-Term Evolution)
-        5G NR (5G New Radio)
-        WCDMA (Wideband Code Division Multiple Access)
-
+         PCH(Paging Channel)
+         PDSCH(Physical Downlink Shared Channel)
+         PUSSCH(Physical Uplink Shared Channel)
+         PUCCH(Physical Uplink Control Channel)
+        
 # 8. Technology
 
 Definition: Technologies refer to the specific technical methods and innovations used to implement telecommunications services and infrastructure.
@@ -82,6 +83,8 @@ Definition: Technologies refer to the specific technical methods and innovations
         UTRA (Universal Terrestrial Radio Access)
         LTE (Long-Term Evolution)
         GSM (Global System for Mobile Communications)
+        WCDMA (Wideband Code Division Multiple Access)
+
 
 # 9. Procedure
 
