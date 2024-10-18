@@ -14,8 +14,8 @@ Our benchmark suite covers the following key tasks:
 | [Long Telecom Question Answering](./Long_Telecom_Question_Answering/README.md) | BLEU, ROUGE, BERTScore | 2000 |
 | [Telecom Information Retrieval](./Telecom_Information_Retrieval/README.md) | Top-K Accuracy (K=1, 3, 5) |1000 (queries) ,  6000+ (docs) |
 | [Named Entity Type Classification](./Named_Entity_TypeClassification/README_NETC.md) | Accuracy | 1000 |
-| Image Classification(./Image Classification/readme.md) | Accuracy | 1000 |
-| Image Retrieval | Top-K Accuracy | 1000 |
+| [Image Classification](./Image_Classification/README.md) | Accuracy | 1000 |
+| [Image Retrieval](./Image_Retrieval/README.md)| Top-K Accuracy | 1000 |
 
 ### 1. Multiple-Choice Telecom Question Answering
 
