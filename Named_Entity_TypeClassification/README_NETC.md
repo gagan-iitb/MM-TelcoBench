@@ -45,6 +45,7 @@ Definition: Interfaces define the point of interaction between different compone
         S1 Interface
         X2 Interface
         N1 Interface
+        N2 Interface
 
 # 5. Service
 
