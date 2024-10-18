@@ -21,3 +21,7 @@ New Radio (NR)?
 
 Describe the process of initial cell access in 5G NR, including the exchange of
 MIB, SIB1, and SystemInformation messages between the UE and the network.
+
+# Note
+5.png of the csv file 24301 refers to the 5th image of the document named 24.301 of the 3GPP. Here is the link to the images stored.
+https://drive.google.com/drive/folders/1K5L0K1LI7zeKirrCleOYxXw1ggoRqqli?usp=sharing
