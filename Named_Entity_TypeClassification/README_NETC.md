@@ -2,7 +2,7 @@
 # Named_EntityType_Classifications:
 
 
-Entity type classification is a crucial aspect of Natural Language Processing (NLP), particularly in the field of telecommunications, where accurately identifying and categorizing terms can significantly enhance data understanding and processing. We are  Working within the telecom domain, specifically in the context of 3GPP (3rd Generation Partnership Project) specifications, entity types can be classified into several categories, including Protocols, Network Functions, and Services. So far we have Introduced 19 disntinct Telecom Entity Type:
+Entity-type classification is a crucial aspect of Natural Language Processing (NLP), particularly in the field of telecommunications, where accurately identifying and categorizing terms can significantly enhance data understanding and processing. We are  Working within the telecom domain, specifically in the context of 3GPP (3rd Generation Partnership Project) specifications, entity types can be classified into several categories, including Protocols, Network Functions, and Services. So far we have Introduced 19 distinct Telecom Entity Type:
 
 
 # Below are Some Examples for Each Types:
