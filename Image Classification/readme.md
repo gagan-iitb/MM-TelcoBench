@@ -22,6 +22,9 @@ https://drive.google.com/drive/folders/1K5L0K1LI7zeKirrCleOYxXw1ggoRqqli?usp=sha
 
 # Evaluation of some Models
 We have considered accuracy as evaluation metrics
+
 **phi3.5** 69.1%
+
 **Llama 3.2 11b** 79.3%
+
 **openBmb** 56.21%
