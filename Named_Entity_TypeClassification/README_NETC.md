@@ -186,3 +186,5 @@ Definition: Miscellaneous terms encompass various other relevant concepts in tel
         FDD (Frequency Division Duplex)
         TDD (Time Division Duplex)
         GEA (GPRS Encryption Algorithm)
+
+
