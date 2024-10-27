@@ -38,7 +38,7 @@ This metadata ensures traceability and relevance by linking each question back t
 The dataset is intended to evaluate the ability of models to understand and answer complex telecom-related questions, providing a challenging benchmark for **Multiple-Choice Question Answering** in the telecom domain.
 
 
-## Evaluation Result for some famous models
+## Evaluation Result for some state-of-the-art models
 
 | Model Name | CT WG1 | CT WG3 | CT WG4 | RAN1 | RAN2 | RAN3 | RAN4 | SA WG1 | SA WG2 | SA WG3 | SA WG5 | Overall Accuracy |
 |------------|--------|--------|--------|-------|-------|-------|-------|---------|---------|---------|---------|-----------------|
