@@ -40,7 +40,7 @@ The candidate answers are evaluated using the following metrics:
 This dataset is designed to challenge models' abilities to generate detailed and contextually accurate responses in the telecom domain.
 
 
-## Evaluation result for some famous models 
+## Evaluation results for SOTA models 
 
 | **ROUGE-L** | CT WG1 | CT WG3 | CT WG4 | RAN1 | RAN2 | RAN3 | RAN4 | SA WG1 | SA WG2 | SA WG3 | SA WG5 | Average |
 |-------------|---------|---------|---------|-------|-------|-------|-------|---------|---------|---------|---------|----------|
