@@ -29,3 +29,15 @@ The evaluation is performed using **Top-K accuracy** at K=1, K=3, and K=5. This 
 - **Top-5 Accuracy**: Measures if the relevant document is within the top 5 retrieved results.
 
 This task is designed to challenge retrieval models' effectiveness in identifying the most relevant sections from highly technical telecommunications documents.
+
+## Evaluation Result 
+
+| Model | Top 1 Accuracy | Top 3 Accuracy | Top 5 Accuracy |
+|-------|---------------|----------------|----------------|
+| all-MiniLM-L6-v2 | 0.665 | 0.817 | 0.858 |
+| all-mpnet-base-v2 | 0.635 | 0.784 | 0.822 |
+| bge-small-en-v1.5 | 0.706 | 0.827 | 0.861 |
+| bge-large-en-v1.5 | 0.769 | 0.882 | 0.914 |
+| snowflake-arctic-embed-m | 0.476 | 0.590 | 0.626 |
+| snowflake-arctic-embed-l | 0.392 | 0.498 | 0.537 |
+| mxbai-embed-large-v1 | 0.755 | 0.870 | 0.895 |
