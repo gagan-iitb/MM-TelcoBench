@@ -24,7 +24,7 @@ This metadata provides essential context and traceability, ensuring that each qu
 ## Evaluation
 
 The evaluation is performed using **Top-K accuracy** at K=1, K=3, and K=5. This metric measures the system’s ability to retrieve the correct document within the top K results, where:
-- **Top-1 Accuracy**: Measures if the most relevant document is retrieved as the top result.
+- **Top-1 Accuracy**: Measures if the relevant document is retrieved as the top result.
 - **Top-3 Accuracy**: Measures if the relevant document is within the top 3 retrieved results.
 - **Top-5 Accuracy**: Measures if the relevant document is within the top 5 retrieved results.
 
