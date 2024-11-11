@@ -75,6 +75,7 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 
 * Anshul Kumar (MTech, Jawaharlal Nehru University)
 * Manish Rai (MTech, IIT Bhilai)
+* Apu Chakraborty 
 * Sunny Kumar 
 
 ## License
