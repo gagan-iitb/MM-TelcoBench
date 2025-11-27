@@ -87,13 +87,17 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 ## People/Collaborators
 * Dr. Gagan Raj Gupta, Associate Professor, IIT Bhilai (ex. LMTS, AT&T Labs, CA, USA)
 * Dr. Brejesh Lall, Professor, IIT Delhi
-* Dr. Ashutosh Modi, Assistant Professor, IIT Kanpur
+* Dr. Ashutosh Modi, Associate Professor, IIT Kanpur
+* Dr. Abdelaali CHAOUB, Associate Professor, INPT
 * Dr. Soumajit Pramanik, Assistant Professor, IIT Bhilai
 
 * Anshul Kumar (MTech, Jawaharlal Nehru University)
 * Manish Rai (MTech, IIT Bhilai)
+* Yashwant Holla (MTech, IITK)
+* Moyank Giri (MTech, IIT Bhilai)
 * Apu Chakraborty 
-* Sunny Kumar 
+* Sunny Kumar
+* M V Kiran Sooraj
 
 ## License
 
