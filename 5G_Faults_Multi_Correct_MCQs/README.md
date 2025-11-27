@@ -21,8 +21,6 @@ This pipeline creates highly challenging multi-correct MCQs optimized for robust
 ### Skills Tested
 Evaluates the model’s ability to perform **deep reasoning**, validate multiple correct interpretations, and avoid subtle conceptual, causal, and telecom-domain-specific errors.
 
-### Data Statistics
-The benchmark contains multi-correct MCQs covering 5G fault diagnosis scenarios extracted from the curated dataset *5G_Faults_Multi_Correct_MCQs*.
 
 ### Model Performance Summary
 
