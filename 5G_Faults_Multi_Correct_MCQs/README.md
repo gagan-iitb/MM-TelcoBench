@@ -16,7 +16,7 @@ A different MCQ generation approach was used for this dataset:
    - A second LLM was then used to **select the best distractors** from all generated candidates to maximize difficulty.
 3. Questions and options were generated using **Qwen3 32B**, ensuring high-quality telecom-specific reasoning.
 
-This pipeline creates highly challenging multi-correct MCQs optimized for robust telecom competence evaluation.
+This pipeline creates highly challenging multi-correct MCQs optimized for robust telecom competence evaluation. Dataset sourced from Multiple Datasets from HuggingFace
 
 ### Skills Tested
 Evaluates the model’s ability to perform **deep reasoning**, validate multiple correct interpretations, and avoid subtle conceptual, causal, and telecom-domain-specific errors.
