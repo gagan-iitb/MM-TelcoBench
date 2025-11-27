@@ -73,7 +73,7 @@ Measures the ability to generate accurate captions for telecom diagrams using 3G
 ## Areas Covered
 Our benchmarks comprehensively span all major domains defined in the 3GPP Release 17 Technical Specifications. This includes core network protocols, system architecture and services, radio resource control, radio performance, and protocol aspects across RAN, SA, and CT working groups. Additionally, the benchmarks cover user equipment procedures, service management and orchestration, network security and privacy, and interworking with external networks and policy control. Together, these areas capture the full breadth of Release 17 radio access and core network functionalities, ensuring that the benchmark reflects real-world telecom challenges across both protocol-level and system-level dimensions.
 
-🔗  **[Release 17 Images Folder](https://drive.google.com/drive/folders/1SGQ8IBVbJFYcLbY7fSnU4IQaET22A076?usp=sharing)**
+🔗  **[3GPP Release 17 Images Folder](https://drive.google.com/drive/folders/1SGQ8IBVbJFYcLbY7fSnU4IQaET22A076?usp=sharing)**
 
 
 
