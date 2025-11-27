@@ -67,14 +67,15 @@ Measures the ability to generate accurate captions for telecom diagrams using 3G
 ## Areas Covered
 Our benchmarks comprehensively span all major domains defined in the 3GPP Release 17 Technical Specifications. This includes core network protocols, system architecture and services, radio resource control, radio performance, and protocol aspects across RAN, SA, and CT working groups. Additionally, the benchmarks cover user equipment procedures, service management and orchestration, network security and privacy, and interworking with external networks and policy control. Together, these areas capture the full breadth of Release 17 radio access and core network functionalities, ensuring that the benchmark reflects real-world telecom challenges across both protocol-level and system-level dimensions.
 
-
 ## Why This Benchmark?
 
 Current benchmarks are not designed to evaluate LLMs within the context of real-world telecom tasks. Our benchmark addresses this by offering:
 
 - **Telecom-Specific Tasks**: Tailored to 3GPP specifications, providing a more realistic evaluation of LLMs' domain proficiency.
 - **Multi-Modal Evaluation**: Covers both textual and visual data, ensuring comprehensive assessment across different data modalities.
+- **PCAP Analysis for RCA & 5G Faults**: Includes Packet Capture–based troubleshooting tasks focused on root cause analysis and 5G network faults—an area missing from existing open benchmarks.
 - **Open Source**: The dataset is freely available, encouraging community collaboration and model evaluation on a large, diverse dataset.
+
 
 ## Interested in Collaborating ? 
 - We invite you to help validate our benchmark and contribute to future developments. Please fill out this [expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLSdt5PiCNI3dCf9Vw9jfjSMbpyfQPfyJhnAXF1MEcoWsCFEfPA/viewform?usp=sf_link).
