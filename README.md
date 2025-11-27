@@ -1,8 +1,12 @@
 # MM-TelcoBench
+This is the **official GitHub repository** for the paper:
+**_MM-Telco: Benchmarks and Multimodal Large Language Models for Telecom Applications_**  
+📄 Paper (arXiv): [https://arxiv.org/abs/2511.13131](https://arxiv.org/abs/2511.13131)
 
 ## Introduction
 
-The telecommunications industry is undergoing significant transformation, driven by advancements in Large Language Models (LLMs) and Generative AI. Despite these technological breakthroughs, the sector lacks specialized benchmarks to evaluate the proficiency of these models in telecom-specific tasks. In contrast to fields like medicine and finance, which have well-established domain-specific benchmarks, telecommunications still requires tailored datasets that can effectively assess Large Language Models performance on industry-relevant tasks.
+MM-Telco is a comprehensive suite of multimodal benchmarks and domain-adapted models designed to evaluate and advance Large Language Models (LLMs) for real-world telecom applications. It includes diverse text and image tasks spanning network operations, troubleshooting, documentation, retrieval, and PCAP-based analysis. Our baseline experiments with leading LLMs and VLMs show significant performance gains when fine-tuned on MM-Telco, while also highlighting key gaps in current multimodal models—offering clear direction for future research in AI-driven telecom intelligence.
+
 
 ## Benchmark Overview
 
