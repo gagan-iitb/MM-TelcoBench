@@ -93,7 +93,7 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 
 * Anshul Kumar (MTech, Jawaharlal Nehru University)
 * Manish Rai (MTech, IIT Bhilai)
-* Yashwant Holla (MTech, IITK)
+* Yashwant Holla (MTech, IIT Kanpur)
 * Moyank Giri (MTech, IIT Bhilai)
 * Apu Chakraborty 
 * Sunny Kumar
