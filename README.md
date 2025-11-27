@@ -10,7 +10,7 @@ Our benchmark suite covers the following key tasks:
 
 | Task | Evaluation Metrics | Size |
 |------|---------------------|---------|
-| **5G Faults Multi Correct MCQ** | Accuracy | 350 |
+| **5G Faults Multi Correct MCQ (NEW)** | Accuracy | 350 |
 | **Multiple-Choice Telecom Question Answering** | Accuracy | 10,000 |
 | **Multi-Hop Multi-Choice QA** | Accuracy | 2,000 |
 | **Long Telecom Question Answering** | BLEU, ROUGE, BERTScore | 3,000 |
