@@ -10,12 +10,21 @@ Our benchmark suite covers the following key tasks:
 
 | Task | Evaluation Metrics | Size |
 |------|---------------------|---------|
-| [Multiple-Choice Telecom Question Answering](./Multiple_Choice_Telecom_Question_Answering/README.md) | Accuracy | 10000 |
-| [Long Telecom Question Answering](./Long_Telecom_Question_Answering/README.md) | BLEU, ROUGE, BERTScore | 3000 |
-| [Telecom Information Retrieval](./Telecom_Information_Retrieval/README.md) | Top-K Accuracy (K=1, 3, 5) |1000 (queries) ,  6000+ (docs) |
-| [Named Entity Type Classification](./Named_Entity_TypeClassification/README_NETC.md) | Accuracy | 1000 |
-| [Image Classification](./Image%20Classification/readme.md) | Accuracy | 1000 |
-| [Image Retrieval](./Image%20Retrieval/readme.md)| Top-K Accuracy | 1000 |
+| **Multiple-Choice Telecom Question Answering** | Accuracy | 10,000 |
+| **Multi-Hop Multi-Choice QA** | Accuracy | 2,000 |
+| **Long Telecom Question Answering** | BLEU, ROUGE, BERTScore | 3,000 |
+| **Long-Form Telecom Blog QA** | BLEU, ROUGE, BERTScore | 1,000 |
+| **Long-Form QA (General)** | BLEU, ROUGE, BERTScore | 2,500 |
+| **Telecom Information Retrieval** | Top-K Accuracy (K=1,3,5) | 1,000 queries, 10,000 docs |
+| **Named Entity Recognition (NER)** | F1-score | 1,000 entities |
+| **Named Entity Type Classification** | Accuracy | 1,000 |
+| **Scenario-Based Filter Generation (Wireshark Filters)** | Precision@K, Human Eval | 500 |
+| **Image-based Multi-Choice QA** | Accuracy | 2,000 |
+| **Image Caption Generation** | BLEU, METEOR, CIDEr | 1,000 images |
+| **Image-Based Long QA** | BLEU, ROUGE, BERTScore | 1,000 |
+| **Image Classification** | Accuracy | 1,000 |
+| **Image Retrieval** | Top-K Accuracy | 1,000 queries, 3,000 images |
+
 
 ### 1. Multiple-Choice Telecom Question Answering
 
