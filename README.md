@@ -13,7 +13,7 @@ Our benchmark suite covers the following key tasks:
 | **Multiple-Choice Telecom Question Answering** | Accuracy | 10,000 |
 | **Multi-Hop Multi-Choice QA** | Accuracy | 2,000 |
 | **Long Telecom Question Answering** | BLEU, ROUGE, BERTScore | 3,000 |
-| **Long Telecom Question Answering V2 (Multi_hop( ** | BLEU, ROUGE, SemScore, LLM Judge | 2,500 |
+| **Long Telecom Question Answering V2 Multi_hop ** | BLEU, ROUGE, SemScore, LLM Judge | 2,500 |
 | **Long-Form Telecom Blog QA** | BLEU, ROUGE, BERTScore | 1,000 |
 | **Telecom Information Retrieval** | Top-K Accuracy (K=1,3,5) | 1,000 queries, 10,000 docs |
 | **Named Entity Recognition (NER)** | Accuracy | 1,000 entities |
