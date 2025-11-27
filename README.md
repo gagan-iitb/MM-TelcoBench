@@ -85,10 +85,7 @@ Current benchmarks are not designed to evaluate LLMs within the context of real-
 - We invite you to help validate our benchmark and contribute to future developments. Please fill out this [expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLSdt5PiCNI3dCf9Vw9jfjSMbpyfQPfyJhnAXF1MEcoWsCFEfPA/viewform?usp=sf_link).
 
   
-## Future Work 
-- **LLMs Evaluation**: We will evaluate some of the state-of-the-art LLMs on these benchmarks and share the results and analysis of their strengths and weakness.
-- **Finetune Shortlisted Models**: We will Try to increase the performance of the best-performing models on our benchmark using fine-tuning.
-- **Large Benchmark Release**: We will release a large version of these Benchmarks soon.
+
 
 ## People/Collaborators
 * Dr. Gagan Raj Gupta, Associate Professor, IIT Bhilai (ex. LMTS, AT&T Labs, CA, USA)
